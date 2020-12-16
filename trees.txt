@@ -22,3 +22,5 @@ and good for us.
 Long roots,
 Short roots,
 Branches.
+
+This is a <picture/>
