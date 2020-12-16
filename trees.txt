@@ -1,0 +1,9 @@
+The trees
+
+Sap,
+Bark,
+Trunk,
+Roots,
+Leaves,
+Flowers,
+Fruits.
