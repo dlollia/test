@@ -7,3 +7,6 @@ Roots,
 Leaves,
 Flowers,
 Fruits.
+
+Sky and earth.
+Night and day.
