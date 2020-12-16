@@ -10,3 +10,5 @@ Fruits.
 
 Sky and earth.
 Night and day.
+
+Sun and rain.
